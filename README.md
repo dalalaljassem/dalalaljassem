@@ -1,10 +1,15 @@
-### Hi there , i am Dalal Aljassem, AKA DJ 👋
+## Hi there , its Dalal Aljassem, AKA DJ 👋
 
-🔭 I’m currently working on my senior design project
 
-👩🏻‍💻 I’m currently learning SwiftUI and Machine Learning
 
-🚀 I'm a Computer Engineering Student
+🔭 I’m currently working on my senior design project 
+
+🚀 I’m currently learning SwiftUI 📲 and Machine Learning 🤖
+
+👩🏻‍💻 I'm a Computer Engineering Student
+
+🌱 I love matcha, and coffee, anything caffeinated really 🍵
+
 <!--
 **dalalaljassem/dalalaljassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
