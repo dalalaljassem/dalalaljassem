@@ -2,11 +2,11 @@
 
 
 
-🔭 I’m currently working on my senior design project 
+🔭 I love to code and work on new projects 
 
-🚀 I’m currently learning SwiftUI 📲 and Machine Learning 🤖
+🚀 I’m currently working as a mentor for game development
 
-👩🏻‍💻 I'm a Computer Engineering Student
+👩🏻‍💻 I'm a Computer Engineer
 
 🌱 I love matcha, and coffee, anything caffeinated really 🍵
 
