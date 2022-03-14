@@ -2,7 +2,7 @@
 
 
 
-🔭 I love to code and work on new projects 
+🔭 I talk to computers, create games, create apps, and love creating projects in general
 
 🚀 I’m currently working as a mentor for game development
 
