@@ -4,11 +4,11 @@
 
 🔭 I talk to computers, create games, create apps, and love creating projects in general
 
-🚀 I’m currently working as a mentor for game development
+🚀 Interested in game and ios development
 
 👩🏻‍💻 I'm a Computer Engineer
 
-🌱 I love matcha, and coffee, anything caffeinated really 🍵
+🌱 I love matcha, coffee and anything caffeinated 🍵
 
 <!--
 **dalalaljassem/dalalaljassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
