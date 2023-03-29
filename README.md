@@ -4,7 +4,7 @@
 
 🔭 I talk to computers, create games, create apps, and love creating projects in general
 
-🚀 Interested in game and ios development
+🚀 Interested in game and web development
 
 👩🏻‍💻 I'm a Computer Engineer
 
